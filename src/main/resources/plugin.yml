@@ -1,0 +1,11 @@
+name: ForceGamemode
+version: '${version}'
+main: io.github.tanguygab.forcegamemode.ForceGamemode
+api-version: '1.21'
+author: Tanguygab
+description: Force a gamemode in all or specific worlds!
+commands:
+  forcegamemode:
+    aliases:
+      - forcegm
+      - fgm

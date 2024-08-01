@@ -1,0 +1,11 @@
+default-gamemode: NONE
+
+worlds:
+  Lobby: ADVENTURE
+  Creative: CREATIVE
+
+worlds-prevent-switching:
+  - Creative
+  # - "*" # For all worlds
+
+cant-switch-message: "&cYou can't change gamemode in this world!"
